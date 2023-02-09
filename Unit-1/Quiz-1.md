@@ -6,8 +6,11 @@ int integer = 1;
 ```
 
 a. Variable
+
 b. Int
+
 c. 1
+
 d. String
 
 ### Question 2:
@@ -18,8 +21,11 @@ long number = 10.2;
 ```
 
 a. Long is not a data type
+
 b. Number is an invalid name
+
 c. Decimal values require a literal
+
 d. Long cannot hold decimal values
 
 ### Question 3:
@@ -30,8 +36,11 @@ int a = 2;
 ```
 
 a. "2"
+
 b. "Nothing"
+
 c. Null Reference Exception
+
 d. Nothing
 
 ### Question 4:
@@ -39,8 +48,11 @@ d. Nothing
 What behaves most similar to a method?
 
 a. Field
+
 b. Constructor
+
 c. Variable
+
 d. Class
 
 ### Question 5:
@@ -48,8 +60,11 @@ d. Class
 What three things exist directly under a namespace?
 
 a. Structs, Fields, and Constructors
+
 b. Classes, Methods, and Enums
+
 c. Enums, Constructors, and Fields
+
 d. Structs, Enums, and Classes
 
 ### Question 6:
@@ -57,8 +72,11 @@ d. Structs, Enums, and Classes
 What type has the biggest range of values?
 
 a. Short
+
 b. Ushort
+
 c. Sbyte
+
 d. Int
 
 ### Question 7:
@@ -69,8 +87,11 @@ This is a valid value assignment for what type of 4-element array?
 ```
 
 a. String Array
+
 b. Int Array
+
 c. Double Array
+
 d. This is an invalid array value
 
 ### Question 8:
